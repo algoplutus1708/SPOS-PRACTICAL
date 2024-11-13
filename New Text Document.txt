@@ -1,0 +1,3 @@
+TAT= CT-AT
+WT=TAT-BT
+RT=CPU first time - AT
